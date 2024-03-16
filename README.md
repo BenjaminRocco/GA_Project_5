@@ -43,6 +43,8 @@ See `requirements.txt` file for versions of libaries and packages, easy install 
 - nuclear_dom.png
 - petroleum_dom.png
 - renewable_dom.png
+- 2Year_Forecast_CO2_Emissions.png
+  
 ### `Powerpoint_Presentation`
 
 ### `Datasets_Link`
@@ -86,7 +88,7 @@ Following were for use in presentation:
 - nuclear_dom.png
 - petroleum_dom.png
 - renewable_dom.png
-- 2Year_Forecast_CO2_Emissions.png
+
 ### `Powerpoint_Presentation`
 ### `Datasets_Link`
 - Datasets for this project may be found here: https://github.com/BenjaminRocco/Project_5_Datasets/tree/main
